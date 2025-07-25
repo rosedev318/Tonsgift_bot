@@ -1,3 +1,4 @@
+
 const text = {
     "main": [
         `🍬*Tonsgift Bot*🍬
